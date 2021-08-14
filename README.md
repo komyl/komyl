@@ -4,7 +4,7 @@
 I make project just for fun and learn 
 I love learning new languages ​​and coding and development
 
-Skills: Go / Swift / Html / Css
+Skills: Go / Python / Html / Css
 
 - 🌱 I’m currently learning Go Lang 
 - 👯 I’m looking to collaborate on any Go Lang project 
