@@ -19,7 +19,7 @@ Skills: Go / Python / Html / Css
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=komyl)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komyl)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komyl&show_icons=true&theme=radical)
 
