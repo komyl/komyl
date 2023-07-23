@@ -4,12 +4,8 @@
 I make project just for fun and learn 
 I love learning new languages ​​and coding and development
 
-Skills: Go / Python / Html / Css
+Skills: Python / Go
 
-- 🌱 I’m currently learning Go Lang 
-- 👯 I’m looking to collaborate on any Go Lang project 
-- 🤔 I’m looking for help with learning code 
-- 💬 Ask me about Ios / Swift / Go 
 - 📫 How to reach me: komylfa@gmail.com 
 
 
