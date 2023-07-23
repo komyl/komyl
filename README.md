@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Komeyl!
 #### I am Junior Developer
 
-I make project just for fun and learn 
-I love learning new languages ​​and coding and development
+I make project just for fun 
 
 Skills: Python / Go
 
